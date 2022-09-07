@@ -13,5 +13,5 @@ const CONFIG = {
     mess: 'Mình biết mà 🥰. Không có gì đâu 😘',
     messDesc: 'Bấm vào đây để nghe những lời chúc nha',
     btnAccept: 'Okiiii lun <3',
-    messLink: 'https://www.facebook.com/profile.php?id=100005955848819' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    messLink: 'https://drive.google.com/file/d/1Fppb0SX7CR0fEoVbpOFpjtJs8aQ6Xkt4/view?usp=sharing' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
